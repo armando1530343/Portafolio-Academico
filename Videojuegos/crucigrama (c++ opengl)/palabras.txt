@@ -1,0 +1,8 @@
+estudiante
+materia
+escuela
+universidad
+alumno
+persona
+cuaderno
+lapiz

@@ -1,0 +1,17 @@
+En esta aplicacion fue necesaria la implementcion de una funcion la cual se encarga de graficar los grados de la circunferencia. Para ello se utilizo la funcion de la libreria de opengl que grafica puntos 'GL_POINTS', en la funcion llamada 'circunferencia' recibe como parametro el angulo de inclinacion con base al centro de la circunferencia el cual se utiliza para obtener las coordenadas de X(coseno del angulo) y Y(seno del angulo) cada uno mutliplicado por el valor del radio.
+Para la funcion del punto angular fue necesario implementar la formula de la distancia entre puntos con respecto al centro, ya que al moverlo forma un triangulo en base a los lados, una vez hecho esto se calcula el angulo que se forma en el centro y ese es el que se grafica, y que tambien coincide con los grados de la circunferencia.
+
+Para la creacion de la grafica de las funciones se realizo en base a una escala de los valores de PI, para ello se graficaron un conjunto de lineas en forma vertical en su mayoria y solo una horizontal para dividir los positivos y negativos. Para graficar la onda formada por su respectiva funcion trigonometrica, ya sea seno, coseno, tangente o cotangente, se uso la funcion GL_LINE_STRIP que grafica lineas con base al numero de vertices consecutivos, los cuales estos son gradicados con las coordenadas X Y, y para calcular estos valores basto con crear otra funcion que grafique el valor de y con base a x, y asi se grafica la onda formada por cada funcion.
+
+Por ultimo, el movimiento del punto en la grafica es basado al angulo que se forma en la cicunferencia
+
+
+Referencias:
+
+http://www.mty.itesm.mx/dtie/deptos/m/ma00-841-1/FuncionesTrigonometricas.htm
+http://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mat_kruznice&l=es
+http://www.universoformulas.com/matematicas/trigonometria/resolucion-triangulos/
+http://www.profesorenlinea.com.mx/geometria/Distancia_entre_dos_puntos.html
+https://www.montereyinstitute.org/courses/DevelopmentalMath/TEXTGROUP-15-19_RESOURCE/U19_L1_T2_text_final_es.html
+https://es.wikihow.com/calcular-%C3%A1ngulos
+https://mx.search.yahoo.com/yhs/search?hspart=ddc&hsimp=yhs-linuxmint&type=__alt__ddc_linuxmint_com&p=glutBitmapCharacter
