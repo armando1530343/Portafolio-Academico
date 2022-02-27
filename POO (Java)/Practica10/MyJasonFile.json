@@ -1,0 +1,23 @@
+{
+    "Id": 101010,
+    "matricula":"1530343",
+    "nombre":"Armando Isaac",
+    "apellidoPaterno":"Hernandez",
+    "apellidoMaterno":"Muñiz",
+    "sexo":"M",
+    "fechaNacimiento":"1997-07-08",
+    "apellidoPaterno":"Armando Isaac",
+    "inscrito":true,
+    "domicilio":null,
+    "promedio":85.0,
+    "carrera":{
+        "id":1,
+        "siglas":"ITI",
+        "nombre":"Ing. en Tecnologias de la informacion"
+    },
+    "materiasCursadas":["IPOO","POO"],
+    "calificaciones":[
+        {"materia":"IPO","calificacion":98},
+        {"materia":"POO","calificacion":91}
+    ]
+}
