@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Estadisticas_Gastos</string>
+    <string name="monto_txt"></string>
+    <string name="deposito_btn">Depositar</string>
+</resources>
