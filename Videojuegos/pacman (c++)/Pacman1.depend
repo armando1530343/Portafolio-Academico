@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1491350226 source:c:\users\armando isaac\desktop\estructura de datos\pacman\pacman1\main.cpp
+	<iostream>
+	<allegro.h>
+
+1492187412 source:f:\nueva carpeta\pacman1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1492438855 source:c:\users\alegn\desktop\pacman12\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1492569574 source:f:\pacman12\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	<allegro/font.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1492574280 source:h:\pacman12\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1492622872 source:c:\users\alegn\documents\pacman12\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1492619274 source:d:\pacman_final\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1492619274 source:c:\users\armando isaac\desktop\pacman_final\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+	<string.h>
+	<time.h>
+	<math.h>
+

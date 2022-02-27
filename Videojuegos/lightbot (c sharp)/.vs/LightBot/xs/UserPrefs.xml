@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{037B54E4-02A9-AD58-9C25-EE630C2B2112}|Pruebas unitarias">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Lightbot/scripts/bloque.cs">
+    <Files>
+      <File FileName="Assets/Lightbot/scripts/Estructura.cs" Line="12" Column="24" />
+      <File FileName="Assets/Lightbot/scripts/canvas.cs" Line="567" Column="58" />
+      <File FileName="Assets/Lightbot/scripts/bloque.cs" Line="10" Column="34" />
+      <File FileName="Assets/Lightbot/scripts/lightbot_colision.cs" Line="10" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

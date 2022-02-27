@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Lightbot/scenes/game.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Lightbot/scenes/nivel2.unity
+  isLoaded: 0
+  isActive: 0
