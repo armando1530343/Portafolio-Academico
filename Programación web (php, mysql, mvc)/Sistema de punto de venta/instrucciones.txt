@@ -1,0 +1,20 @@
+direccion de repositorio: https://github.com/ArmandoHdz/ProyectoFinal
+
+ip del server: http://104.236.119.14
+phpmyadmin: http://104.236.119.14/phpmyadmin
+
+cuenta de administrador del sistema
+usuario: armando
+contraseña: admin
+
+cuenta de empleado del sistema
+usuario: armando
+contraseña: admin
+
+
+cuenta de phpmyadmin
+usuario:admin
+contraseña:root
+
+
+Funciona todo el menu de administrador y empleado
