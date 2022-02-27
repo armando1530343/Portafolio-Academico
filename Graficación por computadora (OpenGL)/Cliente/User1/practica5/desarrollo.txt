@@ -1,0 +1,7 @@
+Se realizo un modelo en 3D de una iglesia en el lenguaje de c++ y graficos de opengl. La funcion principal llamada circle, grafica un prisma de acuerdo a los parametros que acepta tales como el radio de las bases del prisma, el numero de lados y la altura del mismo.
+
+Primero se creo el cuerpo de la iglesia utilizando un prisma rectangular acostado. Para el techo en forma de triangulo se grafico un prisma triagular del mismo ancho que el rectangulo. Despues se hizo prisma cuadrado de mas altura para la parte frontal del la iglesia.
+
+Para añadir texturas al modelo de la iglesia, se creo la clase Image que cual se encarga de cargar una imagen y graficarla.
+
+En la funcion circle se crearon los vertices de la textura con la funcion glTexCoord2f que agrega una imagen a los lados de la figura creada. Para el modelo 3D de la iglesia se utilizaron 4 texturas; 1) textura de pared para las paredes de la iglesia, 2) textura de techo naranja, 3) textura de una puerta y 4) textura de ventana.

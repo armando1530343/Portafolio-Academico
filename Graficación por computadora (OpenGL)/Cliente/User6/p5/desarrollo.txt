@@ -1,0 +1,7 @@
+En esta practica fue desarrollada en c++ y se creo una funcion que dibuja un modelo en 3D de acuerdo a una serie de parametros que contemplan el radio, el ancho, el numero de lados y los colores de la figura que se desea fabricar. Dentro de esta funcion se utiliza la funcion GL_POLYGON de opengl y se dibujan los vertices con glVertex. Tambien se creo la funcion "llanta" la cual dentro llama a la funcion "Modelo" que dibuja tres circulos que forman la estructura de una llanta del carro.
+
+En la funcion display() se dibuja lo que es el resto del carro, usando como base la funcion Modelo() tomando como figuras cuadrados y rectangulos para dar forma. La funcion llanta() es llamada 4 veces para ser dibujada pero posicionada en distintas coordenadas.
+
+Para ver una mejor perspectiva se agrego poder hacer modificacion al angulo de la camara con las dando las variables a la funcion glRotatef para los tres ejes y afectandolas con las teclas X, Y, Z manipuladas en la funcion teclado().
+
+Al modelo del carro se añadieron texturas a los lados de cada prisma formado, para ello se utilizo acceder a la clase ya definida Image para cargar imagenes tipo bmp. En el archivo principal de la practica se incluye el archivo "imageloader.h" para poder hacer una instancia de la clase Image. Dentro de la funcion Modelo se agregan los vertices para la graficacion de la textura con la funcion glTexCoord2f dando las coordenadas X y Y de los cuatro vertices de una imagen ya que esta toma la forma de un cuadrado, asi en total se cargaron 4 texturas al diseño del carro de carreras.

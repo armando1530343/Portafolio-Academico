@@ -1,0 +1,5 @@
+Se realizo un modelo en 3D de una iglesia en el lenguaje de c++ y graficos de opengl. La funcion principal llamada circle, grafica un prisma de acuerdo a los parametros que acepta tales como el radio de las bases del prisma, el numero de lados y la altura del mismo.
+Primero se creo el cuerpo de la iglesia utilizando un prisma rectangular acostado. Para el techo en forma de triangulo se grafico un prisma triagular del mismo ancho que el rectangulo. Despues se hizo prisma cuadrado de mas altura para la parte frontal del la iglesia.
+
+
+
