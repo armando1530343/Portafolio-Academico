@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491107390 source:c:\users\armando isaac\desktop\estructura de datos\progamario 1 de 4\programa 8\main.cpp
+	<iostream>
+	"Cola.h"
+	<stdlib.h>
+
+1491107507 c:\users\armando isaac\desktop\estructura de datos\progamario 1 de 4\programa 8\cola.h
+	"Impresion.h"
+
+1491104822 c:\users\armando isaac\desktop\estructura de datos\progamario 1 de 4\programa 8\impresion.h
+

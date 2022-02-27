@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491121478 source:c:\users\armando isaac\desktop\estructura de datos\progamario 1 de 4\programa 11\main.cpp
+	<iostream>
+	"Cola.h"
+	<stdlib.h>
+
+1491123682 c:\users\armando isaac\desktop\estructura de datos\progamario 1 de 4\programa 11\cola.h
+	"Alumno.h"
+
+1491120182 c:\users\armando isaac\desktop\estructura de datos\progamario 1 de 4\programa 11\alumno.h
+

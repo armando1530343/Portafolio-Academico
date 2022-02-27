@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1491117593 source:c:\users\armando isaac\desktop\estructura de datos\progamario 1 de 4\programa 10\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"Cola.h"
+
+1491117696 c:\users\armando isaac\desktop\estructura de datos\progamario 1 de 4\programa 10\cola.h
+	"Cliente.h"
+	<time.h>
+	<stdlib.h>
+
+1491116103 c:\users\armando isaac\desktop\estructura de datos\progamario 1 de 4\programa 10\cliente.h
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485033866 source:c:\users\armando isaac\desktop\estructura de datos\unidad 1\progamario\programa 11\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
