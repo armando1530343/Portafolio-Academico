@@ -1,0 +1,8 @@
+
+- NOTA: se debera incluir la carpeta "CrimesUK_2011_2017" la cual no fue proporcionada aqui debido al tamaño.
+
+- Se deberá ejecutar el script "databases_generator.py" para la generacion de los conjuntos de datos
+
+- Los conjuntos de datos generados se guardan en la carpeta "datasets/"
+
+- Una vez generados los datasets, se deberá ejecutar el script "clustering.py" para la visualizacion de los resultados

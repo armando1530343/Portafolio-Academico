@@ -1,0 +1,5 @@
+1. Ejecutar el archivo de "clustering.py" para ver los resultados de los algoritmos y tambien para las visualizaciones
+
+2. En el archivo de "clustering.py" - linea 38, se debe cambiar el valor del INDICE el cual accede al nombre del dataset en el arreglo ya creado, esto de acuerdo al dataset con el que se desea trabajar. 
+
+3. El archivo de "boxplot.py" genera la grafica de estadisticas.
