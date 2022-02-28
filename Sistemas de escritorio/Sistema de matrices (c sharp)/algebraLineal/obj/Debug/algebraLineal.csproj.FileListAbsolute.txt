@@ -1,0 +1,69 @@
+c:\users\armando isaac\documents\visual studio 2013\Projects\algebraLineal\algebraLineal\bin\Debug\algebraLineal.exe.config
+c:\users\armando isaac\documents\visual studio 2013\Projects\algebraLineal\algebraLineal\bin\Debug\algebraLineal.exe
+c:\users\armando isaac\documents\visual studio 2013\Projects\algebraLineal\algebraLineal\bin\Debug\algebraLineal.pdb
+c:\users\armando isaac\documents\visual studio 2013\Projects\algebraLineal\algebraLineal\obj\Debug\algebraLineal.csprojResolveAssemblyReference.cache
+c:\users\armando isaac\documents\visual studio 2013\Projects\algebraLineal\algebraLineal\obj\Debug\algebraLineal.Form1.resources
+c:\users\armando isaac\documents\visual studio 2013\Projects\algebraLineal\algebraLineal\obj\Debug\algebraLineal.Properties.Resources.resources
+c:\users\armando isaac\documents\visual studio 2013\Projects\algebraLineal\algebraLineal\obj\Debug\algebraLineal.csproj.GenerateResource.Cache
+c:\users\armando isaac\documents\visual studio 2013\Projects\algebraLineal\algebraLineal\obj\Debug\algebraLineal.exe
+c:\users\armando isaac\documents\visual studio 2013\Projects\algebraLineal\algebraLineal\obj\Debug\algebraLineal.pdb
+c:\users\armando isaac\documents\visual studio 2013\Projects\algebraLineal\algebraLineal\obj\Debug\algebraLineal.Matrices.resources
+c:\users\armando isaac\documents\visual studio 2013\Projects\algebraLineal\algebraLineal\obj\Debug\algebraLineal.Operaciones1.resources
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal\algebraLineal\obj\Debug\algebraLineal.MatrizIdentidad.resources
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\bin\Debug\algebraLineal.exe.config
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.exe
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.csprojResolveAssemblyReference.cache
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.MatrizIdentidad.resources
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.Form1.resources
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.Matrices.resources
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.Operaciones1.resources
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.Properties.Resources.resources
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.csproj.GenerateResource.Cache
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\bin\Debug\algebraLineal.exe
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\bin\Debug\algebraLineal.pdb
+C:\Users\Armando Isaac\Documents\Visual Studio 2013\Projects\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.pdb
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\bin\Debug\algebraLineal.exe.config
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.exe
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.pdb
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\bin\Debug\algebraLineal.exe
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\bin\Debug\algebraLineal.pdb
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.csprojResolveAssemblyReference.cache
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.A.resources
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.MatrizIdentidad.resources
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.Form1.resources
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.Matrices.resources
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.Operaciones1.resources
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.Properties.Resources.resources
+C:\Users\ELECTRONMICA\Desktop\algebraLineal - copia\algebraLineal\obj\Debug\algebraLineal.csproj.GenerateResource.Cache
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\bin\Debug\algebraLineal.exe.config
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.exe
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.pdb
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\bin\Debug\algebraLineal.exe
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\bin\Debug\algebraLineal.pdb
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.csprojResolveAssemblyReference.cache
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.A.resources
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.MatrizIdentidad.resources
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.Form1.resources
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.Matrices.resources
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.Operaciones1.resources
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.Properties.Resources.resources
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.csproj.GenerateResource.Cache
+C:\Users\Armando Isaac\Desktop\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.Operaciones2.resources
+C:\Users\Armando Isaac\Desktop\Armando Isaac\Universidad Politecnica\4° Cuatrimestre\Algebra Lineal\algebraLineal ver2\algebraLineal\bin\Debug\algebraLineal.exe.config
+C:\Users\Armando Isaac\Desktop\Armando Isaac\Universidad Politecnica\4° Cuatrimestre\Algebra Lineal\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.exe
+C:\Users\Armando Isaac\Desktop\Armando Isaac\Universidad Politecnica\4° Cuatrimestre\Algebra Lineal\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.pdb
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\bin\Debug\algebraLineal.exe.config
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\bin\Debug\algebraLineal.exe
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\bin\Debug\algebraLineal.pdb
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.csproj.AssemblyReference.cache
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.A.resources
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.MatrizIdentidad.resources
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.Operaciones2.resources
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.Form1.resources
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.Matrices.resources
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.Operaciones1.resources
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.Properties.Resources.resources
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.csproj.GenerateResource.cache
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.csproj.CoreCompileInputs.cache
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.exe
+D:\armandohdz\REPOSITORIOS\Universidad-Politecnica-de-Victoria\algebraLineal ver2\algebraLineal\obj\Debug\algebraLineal.pdb
